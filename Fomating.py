@@ -1,14 +1,14 @@
 #using sep
 #for no seperator
-print('I','J','K', sep= "")
+print('I','J','K', sep = "")
 
 #for seprating with comma
-print('I','J','K', sep= ",")
+print('I','J','K', sep = ",")
 
 #whatever works apparently
-print('I','J','K', sep= "FE")
-print('I','J','K', sep= 's')
-print('I','J','K', sep= "*")
+print('I','J','K', sep = "FE")
+print('I','J','K', sep = 's')
+print('I','J','K', sep = "*")
 
 #nice 
 
