@@ -27,4 +27,6 @@ print("name is" ,name ,"age is" ,age)
 
 #this langauge has no shame
 #can use f and put curly brackets on variables
-print(f"name is {name} age is {age}")
+#> is used for padding > for before < for after
+print(f"name is {name:>10} age is {age:<10}.")
+
